@@ -16,7 +16,7 @@ These templates and examples are simply for you to reuse and learn from.
   * [OSPO Policies](https://opensource.google.com/docs/)
 * Linux Foundation
   * [Open Source Approval Form Template](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_approval.pdf)
-  * [Open Source Generic Policy](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_generic_policy.pdf)
+  * [Open Source Generic Policy](https://github.com/OpenChain-Project/Reference-Material/tree/master/Policy-Templates/Official))
 * FINOS
   * [FINOS Reference FOSS Policy](https://github.com/finos/reference-foss-policy/blob/master/src/FINOS-reference-FOSS-policy.adoc)
 * Indeed
